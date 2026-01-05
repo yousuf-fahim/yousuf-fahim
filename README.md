@@ -14,6 +14,13 @@ It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
 
 Enjoying the game? Share this with friends and let them make the next move!
 
+#### Rules
+
+- Standard chess rules apply
+- You can't move twice in a row - wait for someone else to play
+- Only valid moves are accepted
+- Pawns auto-promote to Queen
+
 #### How it works
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
