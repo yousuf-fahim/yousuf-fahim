@@ -44,5 +44,4 @@ Have you spotted a bug? Something missing? Feel free to reach out via an [issue]
 
 ---
 
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
 
