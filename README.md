@@ -1,6 +1,6 @@
-# Fahim's Open Chess Challenge
+# Fahim's Open Chess Tournament
 
-Welcome to my interactive chess challenge! Anyone can join and make a move.  
+Welcome to my interactive chess tournament! Anyone can join and make a move.  
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
