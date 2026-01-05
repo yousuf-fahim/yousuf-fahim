@@ -1,6 +1,6 @@
-# GitHub README Chess Tournament
+# Fahim's Open Chess Challenge
 
-This is an open chess tournament where ANYONE can play. That's the fun part.  
+Welcome to my interactive chess challenge! Anyone can join and make a move.  
 It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
@@ -12,13 +12,13 @@ It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
 (Here goes the list of legal moves)
 <!-- END MOVES LIST -->
 
-Having fun? Ask a friend to do the next move!
+Enjoying the game? Share this with friends and let them make the next move!
 
 #### How it works
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/yousuf-fahim/yousuf-fahim/issues) and I will try to fix it as soon as possible :D
+Have you spotted a bug? Something missing? Feel free to reach out via an [issue](https://github.com/yousuf-fahim/yousuf-fahim/issues) and I will try to fix it as soon as possible :D
 
 
 <details>
