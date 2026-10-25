@@ -218,8 +218,8 @@ def main(issue, issue_author, repo_owner):
 
 if __name__ == '__main__':
     if len(sys.argv) >= 2 and sys.argv[1] == '--self-test':
-        selftest.run(main)
-        sys.exit(0)
+        failed = selftest.run(main)
+        sys.exit(1 if failed > 0 else 0)
     else:
         repo = Github(os.environ['GITHUB_TOKEN']).get_repo(os.environ['GITHUB_REPOSITORY'])
         issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
